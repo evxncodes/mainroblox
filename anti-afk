@@ -1,5 +1,5 @@
 --[[
-got bored so i decieded to make this -evxn 
+batus made this i just forked
 ]]
 
 repeat wait() until game:IsLoaded() and game.Players and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
